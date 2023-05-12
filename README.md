@@ -1,5 +1,7 @@
 # just-motion-canvas-things
 
+Since it seemed hard to find learning resources for this interesting tool by aarthificial, I decided to start collecting a list!
+
 ## The Mothership
 
 * [motioncanvas.io](https://motioncanvas.io/)

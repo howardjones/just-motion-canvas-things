@@ -8,6 +8,7 @@ Since it seemed hard to find learning resources for this interesting tool by aar
 * [main github](https://github.com/motion-canvas/motion-canvas)
 * [examples github](https://github.com/motion-canvas/examples)
 * [original intro video](https://www.youtube.com/watch?v=WTUafAwrunE)
+* [open source update video](https://www.youtube.com/watch?v=H5GETOP7ivs)
 
 ## Articles
 

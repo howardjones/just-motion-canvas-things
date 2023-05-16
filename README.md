@@ -30,3 +30,5 @@ Other videos about motioncanvas
 ## Examples
 
 (not just intentional examples, but just other animations using MC to learn from)
+
+* [official examples github](https://github.com/motion-canvas/examples)
